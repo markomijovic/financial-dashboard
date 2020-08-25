@@ -7,3 +7,5 @@ Data is obtained from the financialmodelingprep API.
 Requires the user to create an account with https://financialmodelingprep.com/developer/docs/ and obtain their api key.
 
 Required dependecies: json, dash, plotly, urlopen
+
+Inspired by https://towardsdatascience.com/creating-a-financial-dashboard-with-python-6d8583e38b57
