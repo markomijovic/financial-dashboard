@@ -8,4 +8,6 @@ Requires the user to create an account with https://financialmodelingprep.com/de
 
 Required dependecies: json, dash, plotly, urlopen
 
+![](AAPL Dashboard.PNG)
+
 Inspired by https://towardsdatascience.com/creating-a-financial-dashboard-with-python-6d8583e38b57
